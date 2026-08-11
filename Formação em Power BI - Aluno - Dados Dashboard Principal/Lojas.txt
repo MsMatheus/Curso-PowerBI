@@ -1,0 +1,14 @@
+Cadastro de Lojas
+v. 056
+User: 6/3263
+
+
+ID Loja	Loja	                UF
+1	fábrica de diversão	RJ
+2	brinquedos fantásticos	SP
+3	BRINQUEDO MANIA	        SP
+4	Diversão infinita	MG
+5	Paraíso dos brinquedos	BA
+6	BRINCADEIRA Séria	PR
+7	Toys R Us	        PR
+8	MUNDO MÁGICO	        RJ
