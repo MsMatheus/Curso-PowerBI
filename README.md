@@ -1,4 +1,4 @@
-# 📊 Trilha de Aprendizado em Power BI & Data Analytics | Comunidade Data Driven
+# 📊 Trilha de Aprendizado em Power BI & Data Analytics | ETEK
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge" />
@@ -11,9 +11,9 @@
 
 ## 📌 Sobre o Repositório
 
-Este repositório documenta a minha jornada de capacitação e aprimoramento técnico em **Business Intelligence (BI)** e **Análise de Dados**, desenvolvida ao longo do curso da **Comunidade Data Driven** (com a instrução da **Kátia**)[cite: 1]. 
+Este repositório documenta a minha jornada de capacitação e aprimoramento técnico em **Business Intelligence (BI)** e **Análise de Dados**, desenvolvida ao longo do curso da **ETEK**. 
 
-O objetivo principal deste projeto/documentação é demonstrar a aplicação prática dos conceitos aprendidos — desde a extração e transformação de dados em escala até a criação de modelos relacionais robustos, fórmulas DAX avançadas e visualizações estratégicas voltadas para a tomada de decisão[cite: 1].
+O objetivo principal deste projeto/documentação é demonstrar a aplicação prática dos conceitos aprendidos — desde a extração e transformação de dados em escala até a criação de modelos relacionais robustos, fórmulas DAX avançadas e visualizações estratégicas voltadas para a tomada de decisão.
 
 ---
 
@@ -21,7 +21,7 @@ O objetivo principal deste projeto/documentação é demonstrar a aplicação pr
 
 ### 1. 🧹 ETL & Power Query (Linguagem M)
 - **Extração e Conexão de Dados**: Conexão com múltiplas fontes (SQL Server, arquivos Excel, CSV e dados em nuvem)[cite: 1, 5].
-- **Tratamento e Limpeza**: Remoção de duplicadas, alteração de tipos de dados, tratamento de valores nulos, substituição de erros e padronização[cite: 5].
+- **Tratamento e Limpeza**: Remoção de duplicadas, alteração de tipos de dados, tratamento de valores nulos, substituição de erros e padronização.
 - **Modelagem no Power Query**: Transposição, unpivot (despivotar colunas), mesclagem e união de consultas (*Merge* e *Append*).
 
 ### 2. 🏗️ Modelagem de Dados Relacional
