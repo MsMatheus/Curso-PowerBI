@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge" />
   <img src="https://img.shields.io/badge/DAX-Advanced-blue?style=for-the-badge" alt="DAX Badge" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Badge" />
   <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge" alt="Status Badge" />
 </p>
 
@@ -20,7 +19,7 @@ O objetivo principal deste projeto/documentação é demonstrar a aplicação pr
 ## 🚀 Principais Competências Desenvolvidas
 
 ### 1. 🧹 ETL & Power Query (Linguagem M)
-- **Extração e Conexão de Dados**: Conexão com múltiplas fontes (SQL Server, arquivos Excel, CSV e dados em nuvem)[cite: 1, 5].
+- **Extração e Conexão de Dados**: Conexão com múltiplas fontes (arquivos Excel, CSV, txt e pdf).
 - **Tratamento e Limpeza**: Remoção de duplicadas, alteração de tipos de dados, tratamento de valores nulos, substituição de erros e padronização.
 - **Modelagem no Power Query**: Transposição, unpivot (despivotar colunas), mesclagem e união de consultas (*Merge* e *Append*).
 
